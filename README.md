@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🤔 Who am I?
+A rudimental developer. Currently living in Berlin, German.
+
+- 💬 Ask me about
+Ads collaboration, technical support on sspanel✈️, etc.
+
+- 📫 How to reach me
+Telegram: @Georgery
